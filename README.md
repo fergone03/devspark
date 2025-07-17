@@ -45,9 +45,11 @@ Esta es una web de gestión para una empresa de desarrollo de software y página
 - Interfaz moderna con Bootstrap.
 - Seguridad: contraseñas cifradas y saneamiento de entradas.
 
+![Thumbnail](pictures/thumbnail.png)
 ---
 
 ## Características principales
+![add project](pictures/addproject.png)
 
 - Gestión de usuarios y proyectos.
 - Roles diferenciados (admin/trabajador).
@@ -55,6 +57,7 @@ Esta es una web de gestión para una empresa de desarrollo de software y página
 - Backend en PHP y MySQL/MariaDB.
 - Estructura modular y segura.
 
+![project lists](pictures/projectlists.png)
 ---
 
 ## Estructura del proyecto
@@ -144,13 +147,12 @@ Esta es una web de gestión para una empresa de desarrollo de software y página
 
 ###  Prerequisitos
 
-Before getting started with devspark, ensure your runtime environment meets the following requirements:
-
 - **Lenguajes de programación:** PHP, HTML5, CSS3, JavaScript
 - **Base de datos:** MySQL/MariaDB
 - **Servidor web:** Apache
 - **Frameworks:** Bootstrap
 
+![userview](projectsuserview.png)
 ### Uso
 
 #### 1. Crear la base de datos
