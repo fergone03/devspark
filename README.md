@@ -10,11 +10,13 @@
 	<img src="https://img.shields.io/github/languages/top/fergone03/devspark?style=flat&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/fergone03/devspark?style=flat&color=0080ff" alt="repo-language-count">
 </p>
-<p align="left">Built with the tools and technologies:</p>
+<p align="left">Construido con las siguiente tecnologías:</p>
 <p align="left">
 	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
 	<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap">
+
 </p>
 </div>
 <br clear="right">
@@ -224,6 +226,6 @@ $dbname = 'empresa_dev';
 ---
 ## Próximas mejoras
 
-- [ ] **`Task 1`**: Mejorar la interfaz de usuario para una vista más moderna y empresarial.
+- [ ] **`1`**: Mejorar la interfaz de usuario para una vista más moderna y empresarial.
 
 ---
