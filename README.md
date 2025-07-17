@@ -5,11 +5,11 @@
 
 #### La web utiliza lo siguiente:
 
-● Desarrollo de Aplicaciones Web en Entorno Servidor: PHP, mySQL
+● Desarrollo de Aplicaciones Web en Entorno Servidor: PHP, Supabase
 
 ● Desarrollo de Aplicaciones Web en Entorno Cliente: JavaScript, DOM, Ajax
 
-● Diseño de Interfaces Web: Bootstrap, jQuery
+● Diseño de Interfaces Web: Bootstrap
 
 ● Despliegue de Aplicaciones Web: Subida a hosting web con certificado SSL y subida a GITHUB
 
